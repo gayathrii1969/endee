@@ -1,1 +1,4 @@
-
+Firewall is a network security system that monitors incoming and outgoing traffic.
+Linked list is a linear data structure where elements are connected using pointers.
+DBMS is used to store, manage and retrieve data efficiently.
+Operating system manages hardware and software resources.
